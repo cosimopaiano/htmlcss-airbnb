@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 
-.citta {
+.city {
   position: relative;
   height: 100vh;
   background: white;
@@ -12,21 +12,16 @@
 }
 
 
-.citta1 {
+.city1 {
   background-image: url(../immagini/imgtaranto.jpg);
-
 }
 
-.citta2 {
-
+.city2 {
   background-image: url(../immagini/imgroma.jpg);
-
 }
 
-.citta3 {
-
+.city3 {
   background-image: url(../immagini/imgvicenza.jpg);
-
 }
 
 .layover {
@@ -38,7 +33,7 @@
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-.nome-città {
+.name-city {
   position: absolute;
   top: 50%;
   left: 50%;
